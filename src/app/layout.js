@@ -1,7 +1,6 @@
-
-import "./globals.css";
-import Sidebar from "./components/Sidebar/Sidebar";
-import TopFilterBar from "./components/TopFilterBar/TopFilterBar";
+import "@/app/globals.css";
+import Sidebar from "@/app/components/Sidebar/Sidebar";
+import TopFilterBar from "@/app/components/TopFilterBar/TopFilterBar";
 
 
 
