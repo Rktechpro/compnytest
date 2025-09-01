@@ -1,7 +1,8 @@
 
 import "@/app/globals.css";
 import Sidebar from "@/app/components/Sidebar/Sidebar";
-import TopFilterBar from "./app/components/TopFilterBar/TopFilterBar";
+import TopFilterBar from "./components/TopFilterBar/TopFilterBar";
+
 
 
 export const metadata = {
